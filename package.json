@@ -1,0 +1,11 @@
+{
+  "name": "event-website",
+  "version": "1.0.0",
+  "description": "A static website for a 1-day technical event.",
+  "main": "generate-site.js",
+  "scripts": {
+    "generate": "node generate-site.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
